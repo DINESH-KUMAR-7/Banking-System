@@ -1,16 +1,16 @@
 # <span style="font-family:SF Mono">Greetings from the Banking System.</span>
 
-## <span style="font-family:SF Mono"><mark style="background-color: #5CB8E4">Folder Structure</mark></span>
+## Folder Structure
 
-<span style="font-family:Operator Mono">
+
 The workspace contains three main folders and 1 sub-folder:
 
 - `lib` : the folder to maintain dependencies
 - `bin` : place for compiled output files
-- `src` : the folder to maintain sources - `supportingFunctions` : folder contains important sub-functions
-  </span>
+- `src` : the folder to maintain sources 
+  - `supportingFunctions` : folder contains important sub-functions
 
-## <span style="font-family:SF Mono"><mark style="background-color: #5CB8E4">Functions</mark></span>
+## Functions
 
 1. `showWallet():` used to see the money int our account
 2. `showMyMoney():` returns the amount in bigdecimal
