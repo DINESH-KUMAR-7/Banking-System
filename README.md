@@ -1,7 +1,7 @@
-# <span style="font-family:SF Mono">Greetings from the Banking System.</span>
+# Greetings from the Banking System.
+
 
 ## Folder Structure
-
 
 The workspace contains three main folders and 1 sub-folder:
 
