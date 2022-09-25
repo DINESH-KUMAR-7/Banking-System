@@ -3,7 +3,7 @@
 
 ## Folder Structure
 
-The workspace contains three main folders and 1 sub-folder:
+The workspace contains two main folders and 1 sub-folder:
 
 <!-- - `lib` : the folder to maintain dependencies -->
 
@@ -22,3 +22,7 @@ The workspace contains three main folders and 1 sub-folder:
 7. `userDetails():` provides necessary details about user
 8. `debitCard():` generate a debit card template
 9. `transactAmount():` transaction between two objects
+
+## Next version
+
+> will provide database facility & UI support.
