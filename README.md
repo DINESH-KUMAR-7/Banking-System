@@ -5,7 +5,8 @@
 
 The workspace contains three main folders and 1 sub-folder:
 
-- `lib` : the folder to maintain dependencies
+<!-- - `lib` : the folder to maintain dependencies -->
+
 - `bin` : place for compiled output files
 - `src` : the folder to maintain sources 
   - `supportingFunctions` : folder contains important sub-functions
